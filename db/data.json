@@ -61,8 +61,8 @@
   ],
   "profile": {
     "id": 101,
-    "username": "Roman_13!",
-    "profile_pic": "Storys/stry_4.png"
+    "username": "Nanmaran",
+    "profile_pic": "Storys/stry_3.png"
   },
   "suggestions": [
     {
@@ -120,14 +120,5 @@
       "image": "Storys/stry_3.png"
     }
   ],
-  "followers": [
-    {
-      "id": "101",
-      "username": "john_doe"
-    },
-    {
-      "id": "103",
-      "username": "rishi_travel"
-    }
-  ]
+  "followers": []
 }

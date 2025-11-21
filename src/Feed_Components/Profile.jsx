@@ -44,7 +44,7 @@ export function Profile() {
   return (
     <>
     <div className="d-flex  m-4 me-5 ">
-  <Link className="mt-3 ms-auto btn btn-danger rounded-4" to="/"><i class="bi bi-arrow-left-circle-fill"></i>
+  <Link className="mt-3 ms-auto btn btn-danger rounded-4" to="/"><i className="bi bi-arrow-left-circle-fill"></i>
 Go Back</Link>
 
 </div>
