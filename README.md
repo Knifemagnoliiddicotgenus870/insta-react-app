@@ -1,4 +1,4 @@
-Insta-React-App
+                   Insta-React-App
 
 A simple Instagram-like React application where users can view profiles, follow/unfollow, and update profile information.
 This project demonstrates full CRUD functionality with React and a JSON-based backend.
@@ -29,16 +29,16 @@ React Router DOM
 
 Screenshots & GIFs
 
-Home Page
+🏠 Home Page
 
 
-Create / Follow User
+➕ Create / Follow User
 
 
-Update Profile
+✏️ Update Profile
 
 
-Delete / Unfollow User
+❌ Delete / Unfollow User
 
 
 How to Run the Project
