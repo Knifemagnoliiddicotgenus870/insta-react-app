@@ -27,7 +27,7 @@ Axios (HTTP requests)
 
 React Router DOM
 
-Screenshots & GIFs
+Screenshot
 
 🏠 Home Page
 
