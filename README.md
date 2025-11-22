@@ -2,7 +2,7 @@
 
 A simple Instagram-like React application where users can view profiles, follow/unfollow, and update profile information.
 This project demonstrates full CRUD functionality with React and a JSON-based backend.
-
+#
 # Project Overview
 
 View Profiles (Read): Fetch and display user profiles from the backend.
