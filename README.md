@@ -33,20 +33,6 @@ Screenshots & GIFs
 
 <img width="1920" height="1020" alt="home" src="https://github.com/user-attachments/assets/ed9a3846-0d49-4aa4-a56c-7c0139106780" />
 
-➕ Create / Follow User
-
-
-
-Uploading Create.mp4…
-
-
-
-❌ Delete / Unfollow User
-
-
-
-✏️ Update Profile
-
 
 
 How to Run the Project
