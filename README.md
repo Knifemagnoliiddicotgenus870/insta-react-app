@@ -1,4 +1,4 @@
-` Insta-React-App`
+# Insta-React-App
 
 A simple Instagram-like React application where users can view profiles, follow/unfollow, and update profile information.
 This project demonstrates full CRUD functionality with React and a JSON-based backend.
@@ -15,7 +15,7 @@ Unfollow Users (Delete): Click "Unfollow" to remove the follow relationship.
 
 Full CRUD Implementation: All Create, Read, Update, Delete operations are fully functional.
 
-Responsive UI: Designed with React and Bootstrap for a clean layout.
+Responsive UI: Designed with React and Bootstrap for a clean layout. #
 
 # Technologies Used
 
@@ -25,7 +25,9 @@ JSON Server (for backend)
 
 Axios (HTTP requests)
 
-React Router DOM
+React Router DOM 
+
+#
 
 # Screenshots
 
@@ -33,10 +35,13 @@ React Router DOM
 
 <img width="1920" height="1020" alt="home" src="https://github.com/user-attachments/assets/ed9a3846-0d49-4aa4-a56c-7c0139106780" />
 
+#
+
 🖼️ Profile Page
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/79a5558d-e475-4fac-adc4-e6a95e3de513" />
 
+#
 
 # How to Run the Project
 
