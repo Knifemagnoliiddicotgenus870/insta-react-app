@@ -35,6 +35,7 @@ Screenshots & GIFs
 
 
 
+
 How to Run the Project
 
 Open your terminal and run the following commands step by step:
