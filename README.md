@@ -22,9 +22,11 @@ This project demonstrates full CRUD functionality with React and a JSON-based ba
 ## Screenshots
 
 **Home Page**  
+
 ![Home Page](https://github.com/user-attachments/assets/ed9a3846-0d49-4aa4-a56c-7c0139106780)
 
 **Profile Page**  
+
 ![Profile Page](https://github.com/user-attachments/assets/79a5558d-e475-4fac-adc4-e6a95e3de513)
 
 ## How to Run the Project
@@ -41,10 +43,10 @@ This project demonstrates full CRUD functionality with React and a JSON-based ba
     ```bash
     npx json-server --watch db/data.json --port 3000
 
-4. Open your browser and go to
+4. After both servers are running, open your browser and enter the following URL to view the app:
    ```bash
    http://localhost:5173
- to view the app.
+
 
 License
 
