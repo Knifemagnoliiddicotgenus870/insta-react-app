@@ -42,14 +42,13 @@ How to Run the Project
 
 Open your terminal and run the following commands step by step:
 
-cd insta-react-app
-npm install
-npx json-server --watch db/data.json --port 3000
-npm start
+# npm install
+# npm run dev
+# npx json-server --watch db/data.json --port 3000
+# npm start
 
 
-Then open http://localhost:3000
- in your browser to view the app.
+Then open http://localhost:3173 in your browser to view the app.
 
 License
 
